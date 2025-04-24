@@ -2,7 +2,6 @@
 
 ### Site institucional criado para o escritório de Consultoria 4g localizado em Pelotas RS
 
-</br>
 ## 🗒️ Features do projeto 🗒️
 
 - Empresa
